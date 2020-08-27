@@ -7,10 +7,10 @@ The URL" https://tregis-cloud.github.io/hw-01-code-refactor/
 
 ##Usage
 After accessing the website, you will get the landing page that will have three menu items: options to choose from in the headser: <Search Engine Optimizatio> <Online Reputation Management> and <Social Media Marketing>. Hitting on anyone of these links will take you to the associated section of the page that will give a short description of each.
-./assets/images/LandingPage.png
-./assets/images/MainSection.png
-./assets/images/RightAside.png
-./assets/images/Footer.png
+
+![](./assets/images/LandingPage.png)
+![](./assets/images/MainSection.png)
+![](./assets/images/RightAside.png)
 
 ￼￼
 ￼￼##Credits
