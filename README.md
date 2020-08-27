@@ -1,7 +1,7 @@
 Project Name: Code Refactor (Horiseon)
 Project Description: The purpose of this project is to refactor the code for the Horiseon website to align more with the htlm 5 semantic standards.
 
-##Installation
+Installation
 Access the website after maintence window which ends on 12:00 AM 8/27/2020
 The URL" https://tregis-cloud.github.io/hw-01-code-refactor/
 
@@ -13,15 +13,15 @@ After accessing the website, you will get the landing page that will have three 
 ![](./assets/images/RightAside.png)
 
 ￼￼
-￼￼##Credits
+￼￼Credits
 The codeacady site was very helpful in understanding samatic html: https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html
 
 Also a big shoutout to the TA's manning the breakout room, in particular Peter Colela. https://gt.bootcampcontent.com/GT-Coding-Boot-Camp
 
-##License
+License
 NA
 
-##Test
+Test
 
 1. Access the home page https://tregis-cloud.github.io/hw-01-code-refactor/ a) verify heder content - Heriseon Header Top left; menu the three menue items on top right <Search Engine Optimizatio> <Online Reputation Management> and <Social Media Marketing>
    b) verify the section content for each of the three menue items
