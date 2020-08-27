@@ -16,16 +16,16 @@ header {
   color: #ffffff;
 }
 
-header h1 {
+h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-header h1 .seo {
+#seo {
   color: #d9dcd6;
 }
 
-header nav {
+nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -33,11 +33,11 @@ header nav {
   font-size: 20px;
 }
 
-header nav ul {
+ul {
   list-style-type: none;
 }
 
-header nav ul li {
+li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -65,7 +65,7 @@ p {
   margin-right: 25px;
 }
 
-.float-right {
+#float-right {
   float: right;
   margin-left: 25px;
 }
@@ -92,7 +92,7 @@ aside {
   color: #ffffff;
 }
 
-aside h3 {
+h3 {
   margin-bottom: 10px;
   text-align: center;
 }
