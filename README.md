@@ -1,5 +1,5 @@
 Project Name: Code Refactor
-Project Description: This project refactors the code to align more with the htlm 5 semantic standards.
+Project Description: This project refactors the code to align more with the HTML5 semantic standards.
 
 Installation: NA
 
