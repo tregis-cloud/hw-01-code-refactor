@@ -8,7 +8,7 @@ Usage: After accessing the website, you will get the landing page that will have
 ![](./assets/images/MainSection.png)
 
 ￼￼￼Credits: The codeacady site was very helpful in understanding samatic html: https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html
-Also a big shoutout to the TA's manning the breakout room, in particular Peter Colela. https://gt.bootcampcontent.com/GT-Coding-Boot-Camp
+Also a big shoutout to the TA's manning the breakout room, in particular Peter Colela.
 
 License: NA
 
